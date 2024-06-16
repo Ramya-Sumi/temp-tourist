@@ -173,7 +173,7 @@ Hero
 .brand{
   font-weight: 800;
   text-transform: uppercase;
-  color:red;
+  color:var(--clr-primary-5);
 }
 .hero {
   min-height: 100vh;
